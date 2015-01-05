@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://http://devinotway.azurewebsites.net/',
+        url: 'http://devinotway.azurewebsites.net/',
         mail: {},
         database: {
             client: 'sqlite3',
